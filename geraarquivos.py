@@ -1,3 +1,3 @@
-for i in range(1,29):
-    path = f'l2ex{i}.py'
+for i in range(1,25):
+    path = f'l4ex{i}.py'
     arquivo = open(path, 'w')
